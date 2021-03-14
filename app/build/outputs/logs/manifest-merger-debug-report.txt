@@ -1,0 +1,187 @@
+-- Merging decision tree log ---
+manifest
+ADDED from G:\FinalProject\Deepak Gupta\DelhiBusNavigator\app\src\main\AndroidManifest.xml:2:1-133:12
+	package
+		ADDED from G:\FinalProject\Deepak Gupta\DelhiBusNavigator\app\src\main\AndroidManifest.xml:3:5-40
+		INJECTED from G:\FinalProject\Deepak Gupta\DelhiBusNavigator\app\src\main\AndroidManifest.xml
+		INJECTED from G:\FinalProject\Deepak Gupta\DelhiBusNavigator\app\src\main\AndroidManifest.xml
+	android:versionName
+		ADDED from G:\FinalProject\Deepak Gupta\DelhiBusNavigator\app\src\main\AndroidManifest.xml:5:5-30
+		INJECTED from G:\FinalProject\Deepak Gupta\DelhiBusNavigator\app\src\main\AndroidManifest.xml
+		INJECTED from G:\FinalProject\Deepak Gupta\DelhiBusNavigator\app\src\main\AndroidManifest.xml
+	android:versionCode
+		ADDED from G:\FinalProject\Deepak Gupta\DelhiBusNavigator\app\src\main\AndroidManifest.xml:4:5-28
+		INJECTED from G:\FinalProject\Deepak Gupta\DelhiBusNavigator\app\src\main\AndroidManifest.xml
+		INJECTED from G:\FinalProject\Deepak Gupta\DelhiBusNavigator\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from G:\FinalProject\Deepak Gupta\DelhiBusNavigator\app\src\main\AndroidManifest.xml:2:11-69
+uses-sdk
+ADDED from G:\FinalProject\Deepak Gupta\DelhiBusNavigator\app\src\main\AndroidManifest.xml:8:5-10:41
+MERGED from [com.android.support:support-v4:23.1.0] G:\FinalProject\Deepak Gupta\DelhiBusNavigator\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.1.0\AndroidManifest.xml:20:5-43
+	android:targetSdkVersion
+		ADDED from G:\FinalProject\Deepak Gupta\DelhiBusNavigator\app\src\main\AndroidManifest.xml:10:9-38
+		INJECTED from G:\FinalProject\Deepak Gupta\DelhiBusNavigator\app\src\main\AndroidManifest.xml
+		INJECTED from G:\FinalProject\Deepak Gupta\DelhiBusNavigator\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		ADDED from G:\FinalProject\Deepak Gupta\DelhiBusNavigator\app\src\main\AndroidManifest.xml:9:9-35
+		INJECTED from G:\FinalProject\Deepak Gupta\DelhiBusNavigator\app\src\main\AndroidManifest.xml
+		INJECTED from G:\FinalProject\Deepak Gupta\DelhiBusNavigator\app\src\main\AndroidManifest.xml
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from G:\FinalProject\Deepak Gupta\DelhiBusNavigator\app\src\main\AndroidManifest.xml:11:1-75
+	android:name
+		ADDED from G:\FinalProject\Deepak Gupta\DelhiBusNavigator\app\src\main\AndroidManifest.xml:11:18-72
+uses-permission#android.permission.INTERNET
+ADDED from G:\FinalProject\Deepak Gupta\DelhiBusNavigator\app\src\main\AndroidManifest.xml:12:5-67
+	android:name
+		ADDED from G:\FinalProject\Deepak Gupta\DelhiBusNavigator\app\src\main\AndroidManifest.xml:12:22-64
+uses-permission#android.permission.CALL_PHONE
+ADDED from G:\FinalProject\Deepak Gupta\DelhiBusNavigator\app\src\main\AndroidManifest.xml:13:5-68
+	android:name
+		ADDED from G:\FinalProject\Deepak Gupta\DelhiBusNavigator\app\src\main\AndroidManifest.xml:13:22-66
+application
+ADDED from G:\FinalProject\Deepak Gupta\DelhiBusNavigator\app\src\main\AndroidManifest.xml:14:5-131:19
+MERGED from [com.android.support:support-v4:23.1.0] G:\FinalProject\Deepak Gupta\DelhiBusNavigator\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.1.0\AndroidManifest.xml:22:5-20
+	android:label
+		ADDED from G:\FinalProject\Deepak Gupta\DelhiBusNavigator\app\src\main\AndroidManifest.xml:17:9-41
+	android:allowBackup
+		ADDED from G:\FinalProject\Deepak Gupta\DelhiBusNavigator\app\src\main\AndroidManifest.xml:15:9-35
+	android:icon
+		ADDED from G:\FinalProject\Deepak Gupta\DelhiBusNavigator\app\src\main\AndroidManifest.xml:16:9-38
+	android:theme
+		ADDED from G:\FinalProject\Deepak Gupta\DelhiBusNavigator\app\src\main\AndroidManifest.xml:18:9-37
+activity#com.sas.delhibusnavigator.SplashActivity
+ADDED from G:\FinalProject\Deepak Gupta\DelhiBusNavigator\app\src\main\AndroidManifest.xml:21:9-32:20
+	android:screenOrientation
+		ADDED from G:\FinalProject\Deepak Gupta\DelhiBusNavigator\app\src\main\AndroidManifest.xml:24:13-49
+	android:label
+		ADDED from G:\FinalProject\Deepak Gupta\DelhiBusNavigator\app\src\main\AndroidManifest.xml:23:13-45
+	android:name
+		ADDED from G:\FinalProject\Deepak Gupta\DelhiBusNavigator\app\src\main\AndroidManifest.xml:22:13-68
+intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
+ADDED from G:\FinalProject\Deepak Gupta\DelhiBusNavigator\app\src\main\AndroidManifest.xml:27:13-31:29
+action#android.intent.action.MAIN
+ADDED from G:\FinalProject\Deepak Gupta\DelhiBusNavigator\app\src\main\AndroidManifest.xml:28:17-69
+	android:name
+		ADDED from G:\FinalProject\Deepak Gupta\DelhiBusNavigator\app\src\main\AndroidManifest.xml:28:25-66
+category#android.intent.category.LAUNCHER
+ADDED from G:\FinalProject\Deepak Gupta\DelhiBusNavigator\app\src\main\AndroidManifest.xml:30:17-77
+	android:name
+		ADDED from G:\FinalProject\Deepak Gupta\DelhiBusNavigator\app\src\main\AndroidManifest.xml:30:27-74
+activity#com.sas.delhibusnavigator.MainActivity
+ADDED from G:\FinalProject\Deepak Gupta\DelhiBusNavigator\app\src\main\AndroidManifest.xml:34:9-43:20
+	android:screenOrientation
+		ADDED from G:\FinalProject\Deepak Gupta\DelhiBusNavigator\app\src\main\AndroidManifest.xml:37:13-49
+	android:label
+		ADDED from G:\FinalProject\Deepak Gupta\DelhiBusNavigator\app\src\main\AndroidManifest.xml:36:13-45
+	android:name
+		ADDED from G:\FinalProject\Deepak Gupta\DelhiBusNavigator\app\src\main\AndroidManifest.xml:35:13-66
+intent-filter#android.intent.category.DEFAULT+com.sas.delhibusnavigator.MAINACTIVITY
+ADDED from G:\FinalProject\Deepak Gupta\DelhiBusNavigator\app\src\main\AndroidManifest.xml:38:13-42:29
+action#com.sas.delhibusnavigator.MAINACTIVITY
+ADDED from G:\FinalProject\Deepak Gupta\DelhiBusNavigator\app\src\main\AndroidManifest.xml:39:17-81
+	android:name
+		ADDED from G:\FinalProject\Deepak Gupta\DelhiBusNavigator\app\src\main\AndroidManifest.xml:39:25-78
+category#android.intent.category.DEFAULT
+ADDED from G:\FinalProject\Deepak Gupta\DelhiBusNavigator\app\src\main\AndroidManifest.xml:41:17-76
+	android:name
+		ADDED from G:\FinalProject\Deepak Gupta\DelhiBusNavigator\app\src\main\AndroidManifest.xml:41:27-73
+activity#com.sas.delhibusnavigator.ViewRouteActivity
+ADDED from G:\FinalProject\Deepak Gupta\DelhiBusNavigator\app\src\main\AndroidManifest.xml:44:9-58:20
+	android:screenOrientation
+		ADDED from G:\FinalProject\Deepak Gupta\DelhiBusNavigator\app\src\main\AndroidManifest.xml:48:13-49
+	android:label
+		ADDED from G:\FinalProject\Deepak Gupta\DelhiBusNavigator\app\src\main\AndroidManifest.xml:46:13-45
+	android:parentActivityName
+		ADDED from G:\FinalProject\Deepak Gupta\DelhiBusNavigator\app\src\main\AndroidManifest.xml:47:13-80
+	android:name
+		ADDED from G:\FinalProject\Deepak Gupta\DelhiBusNavigator\app\src\main\AndroidManifest.xml:45:13-71
+meta-data#android.support.PARENT_ACTIVITY
+ADDED from G:\FinalProject\Deepak Gupta\DelhiBusNavigator\app\src\main\AndroidManifest.xml:49:13-51:74
+	android:value
+		ADDED from G:\FinalProject\Deepak Gupta\DelhiBusNavigator\app\src\main\AndroidManifest.xml:51:17-71
+	android:name
+		ADDED from G:\FinalProject\Deepak Gupta\DelhiBusNavigator\app\src\main\AndroidManifest.xml:50:17-63
+intent-filter#android.intent.category.DEFAULT+com.sas.delhibusnavigator.VIEWROUTEACTIVITY
+ADDED from G:\FinalProject\Deepak Gupta\DelhiBusNavigator\app\src\main\AndroidManifest.xml:53:13-57:29
+action#com.sas.delhibusnavigator.VIEWROUTEACTIVITY
+ADDED from G:\FinalProject\Deepak Gupta\DelhiBusNavigator\app\src\main\AndroidManifest.xml:54:17-86
+	android:name
+		ADDED from G:\FinalProject\Deepak Gupta\DelhiBusNavigator\app\src\main\AndroidManifest.xml:54:25-83
+activity#com.sas.delhibusnavigator.RouteActivity
+ADDED from G:\FinalProject\Deepak Gupta\DelhiBusNavigator\app\src\main\AndroidManifest.xml:59:9-73:20
+	android:screenOrientation
+		ADDED from G:\FinalProject\Deepak Gupta\DelhiBusNavigator\app\src\main\AndroidManifest.xml:63:13-49
+	android:label
+		ADDED from G:\FinalProject\Deepak Gupta\DelhiBusNavigator\app\src\main\AndroidManifest.xml:61:13-45
+	android:parentActivityName
+		ADDED from G:\FinalProject\Deepak Gupta\DelhiBusNavigator\app\src\main\AndroidManifest.xml:62:13-80
+	android:name
+		ADDED from G:\FinalProject\Deepak Gupta\DelhiBusNavigator\app\src\main\AndroidManifest.xml:60:13-67
+intent-filter#android.intent.category.DEFAULT+com.sas.delhibusnavigator.ROUTEACTIVITY
+ADDED from G:\FinalProject\Deepak Gupta\DelhiBusNavigator\app\src\main\AndroidManifest.xml:68:13-72:29
+action#com.sas.delhibusnavigator.ROUTEACTIVITY
+ADDED from G:\FinalProject\Deepak Gupta\DelhiBusNavigator\app\src\main\AndroidManifest.xml:69:17-82
+	android:name
+		ADDED from G:\FinalProject\Deepak Gupta\DelhiBusNavigator\app\src\main\AndroidManifest.xml:69:25-79
+activity#com.sas.delhibusnavigator.AboutActivity
+ADDED from G:\FinalProject\Deepak Gupta\DelhiBusNavigator\app\src\main\AndroidManifest.xml:74:9-88:20
+	android:screenOrientation
+		ADDED from G:\FinalProject\Deepak Gupta\DelhiBusNavigator\app\src\main\AndroidManifest.xml:78:13-49
+	android:label
+		ADDED from G:\FinalProject\Deepak Gupta\DelhiBusNavigator\app\src\main\AndroidManifest.xml:76:13-45
+	android:parentActivityName
+		ADDED from G:\FinalProject\Deepak Gupta\DelhiBusNavigator\app\src\main\AndroidManifest.xml:77:13-80
+	android:name
+		ADDED from G:\FinalProject\Deepak Gupta\DelhiBusNavigator\app\src\main\AndroidManifest.xml:75:13-67
+intent-filter#android.intent.category.DEFAULT+com.sas.delhibusnavigator.ABOUTACTIVITY
+ADDED from G:\FinalProject\Deepak Gupta\DelhiBusNavigator\app\src\main\AndroidManifest.xml:83:13-87:29
+action#com.sas.delhibusnavigator.ABOUTACTIVITY
+ADDED from G:\FinalProject\Deepak Gupta\DelhiBusNavigator\app\src\main\AndroidManifest.xml:84:17-82
+	android:name
+		ADDED from G:\FinalProject\Deepak Gupta\DelhiBusNavigator\app\src\main\AndroidManifest.xml:84:25-79
+activity#com.sas.delhibusnavigator.DisclaimerActivity
+ADDED from G:\FinalProject\Deepak Gupta\DelhiBusNavigator\app\src\main\AndroidManifest.xml:89:9-103:20
+	android:screenOrientation
+		ADDED from G:\FinalProject\Deepak Gupta\DelhiBusNavigator\app\src\main\AndroidManifest.xml:93:13-49
+	android:label
+		ADDED from G:\FinalProject\Deepak Gupta\DelhiBusNavigator\app\src\main\AndroidManifest.xml:91:13-45
+	android:parentActivityName
+		ADDED from G:\FinalProject\Deepak Gupta\DelhiBusNavigator\app\src\main\AndroidManifest.xml:92:13-80
+	android:name
+		ADDED from G:\FinalProject\Deepak Gupta\DelhiBusNavigator\app\src\main\AndroidManifest.xml:90:13-72
+intent-filter#android.intent.category.DEFAULT+com.sas.delhibusnavigator.DISCLAIMERACTIVITY
+ADDED from G:\FinalProject\Deepak Gupta\DelhiBusNavigator\app\src\main\AndroidManifest.xml:98:13-102:29
+action#com.sas.delhibusnavigator.DISCLAIMERACTIVITY
+ADDED from G:\FinalProject\Deepak Gupta\DelhiBusNavigator\app\src\main\AndroidManifest.xml:99:17-87
+	android:name
+		ADDED from G:\FinalProject\Deepak Gupta\DelhiBusNavigator\app\src\main\AndroidManifest.xml:99:25-84
+activity#com.sas.delhibusnavigator.TourismActivity
+ADDED from G:\FinalProject\Deepak Gupta\DelhiBusNavigator\app\src\main\AndroidManifest.xml:104:9-118:20
+	android:screenOrientation
+		ADDED from G:\FinalProject\Deepak Gupta\DelhiBusNavigator\app\src\main\AndroidManifest.xml:108:13-49
+	android:label
+		ADDED from G:\FinalProject\Deepak Gupta\DelhiBusNavigator\app\src\main\AndroidManifest.xml:106:13-45
+	android:parentActivityName
+		ADDED from G:\FinalProject\Deepak Gupta\DelhiBusNavigator\app\src\main\AndroidManifest.xml:107:13-80
+	android:name
+		ADDED from G:\FinalProject\Deepak Gupta\DelhiBusNavigator\app\src\main\AndroidManifest.xml:105:13-69
+intent-filter#android.intent.category.DEFAULT+com.sas.delhibusnavigator.TOURISMACTIVITY
+ADDED from G:\FinalProject\Deepak Gupta\DelhiBusNavigator\app\src\main\AndroidManifest.xml:113:13-117:29
+action#com.sas.delhibusnavigator.TOURISMACTIVITY
+ADDED from G:\FinalProject\Deepak Gupta\DelhiBusNavigator\app\src\main\AndroidManifest.xml:114:17-84
+	android:name
+		ADDED from G:\FinalProject\Deepak Gupta\DelhiBusNavigator\app\src\main\AndroidManifest.xml:114:25-81
+activity#com.sas.delhibusnavigator.TutorialActivity
+ADDED from G:\FinalProject\Deepak Gupta\DelhiBusNavigator\app\src\main\AndroidManifest.xml:121:9-129:20
+	android:label
+		ADDED from G:\FinalProject\Deepak Gupta\DelhiBusNavigator\app\src\main\AndroidManifest.xml:123:13-45
+	android:theme
+		ADDED from G:\FinalProject\Deepak Gupta\DelhiBusNavigator\app\src\main\AndroidManifest.xml:124:13-72
+	android:name
+		ADDED from G:\FinalProject\Deepak Gupta\DelhiBusNavigator\app\src\main\AndroidManifest.xml:122:13-70
+intent-filter#android.intent.category.DEFAULT+com.sas.delhibusnavigator.TUTORIALACTIVITY
+ADDED from G:\FinalProject\Deepak Gupta\DelhiBusNavigator\app\src\main\AndroidManifest.xml:125:13-128:29
+action#com.sas.delhibusnavigator.TUTORIALACTIVITY
+ADDED from G:\FinalProject\Deepak Gupta\DelhiBusNavigator\app\src\main\AndroidManifest.xml:126:17-84
+	android:name
+		ADDED from G:\FinalProject\Deepak Gupta\DelhiBusNavigator\app\src\main\AndroidManifest.xml:126:25-82
